@@ -1,0 +1,12 @@
+file_format: "1"
+id: cnano
+name: Charybdis Nano
+type: shield
+url: https://github.com/Bastardkb/Charybdis/
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
+siblings:
+  - cnano_left
+  - cnano_right
